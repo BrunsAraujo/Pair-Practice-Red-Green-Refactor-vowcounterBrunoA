@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-vijayalakshmi-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viji-qmofi/practice-redGreenRefactor-Vijayalakshmi-R.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viji-qmofi/practice-redGreenRefactor-Vijayalakshmi-R/issues"
+  },
+  "homepage": "https://github.com/Viji-qmofi/practice-redGreenRefactor-Vijayalakshmi-R#readme",
+  "dependencies": {
+    "jest": "^30.1.3"
+  }
+}
